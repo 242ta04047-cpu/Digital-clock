@@ -1,0 +1,5 @@
+Time=0  | Clock = 00:00:00
+Time=15 | Clock = 12:59:58
+Time=25 | Clock = 12:59:59
+Time=35 | Clock = 13:00:00
+Time=45 | Clock = 13:00:01
